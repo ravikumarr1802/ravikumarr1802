@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravikumar Rangu</h1>
-<img src="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif">
+<img src="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
 <h3 align="center">A passionate AI & ML student from India</h3>
 <img align="right" alt="animated-gif 404" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzF6Z2h2bWJwcXdnaGZvNHRxdmI4c3FyZDM2NHIyamFpanVsbWVzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikumarr1802&label=Profile%20views&color=0e75b6&style=flat" alt="ravikumarr1802" /> </p>
