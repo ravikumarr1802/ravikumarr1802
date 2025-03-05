@@ -4,9 +4,9 @@
 <img align="right" alt="animated-gif 404" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzF6Z2h2bWJwcXdnaGZvNHRxdmI4c3FyZDM2NHIyamFpanVsbWVzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikumarr1802&label=Profile%20views&color=0e75b6&style=flat" alt="ravikumarr1802" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Hadoop**
 
-- 💬 Ask me about **API**
+- 💬 Ask me about **Sqoop**
 
 - 📫 How to reach me **ravikumarrangu2@gmail.com**
 
